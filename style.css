@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(0, 247, 226);
+  color: white;
+}
+
+.jumbotron {
+  background-color: blue;
+}
+
+.foto {
+  width: 100px;
+  background-color: blue;
+}
+
+.h2.kipung {
+  color: white;
+}
+.h3.kipung {
+  color: white;
+}
+
+.kipung {
+  color: white;
+}
+
+img{
+  background-color: blue;
+}
+
